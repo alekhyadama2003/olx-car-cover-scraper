@@ -27,7 +27,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/olx-scraper.git
+git clone : https://github.com/alekhyadama2003/olx-car-cover-scraper/edit/main/README.md
 cd olx-scraper
 Install dependencies
 
